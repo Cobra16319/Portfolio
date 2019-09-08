@@ -28,3 +28,9 @@ Python,
 JSON,
 Docker,
 Babel,
+
+# Additions
+Added exact paths due to some having problems integrating their links. 
+
+# Instructions
+I used a RHEL image to deploy the CI/CD tools in AWS. However I realize some will use a Windows system so I updated and created some Python script you can use to build your CI/CD pipeline on AWS. Check out A Cloud Guru or CBT Nuggets for a good course and check on Stack OverFlow. If you get stuck e-mail me and I will help you through it! Best of luck!
